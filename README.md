@@ -15,7 +15,7 @@
 
      
         <img src="fb03614b-d475-4b41-ab06-b16ab54ff066.jfif" alt="Profile pic" width="150px" height="150"> 
-          <h1>JOSH WINLANCE D.BULDA</h1>
+     <h1>JOSH WINLANCE D.BULDA</h1>
       <p>0966-536-5968</p>
       <p>joshwinlance.jwb@gmail.com</p>
       <p>carsadang bago 1, Legian 2, <br> 
